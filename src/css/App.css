@@ -112,7 +112,6 @@ body {
 
 .linkItem span {
   position: absolute;
-  font-family: 'Chelsea Market', cursive;
   bottom: 0;
   left: -15px;
   right: -15px;
@@ -164,10 +163,6 @@ body {
     max-height: 30px;
   }
 
-  .linkItem span {
-    font-family:Arial, Helvetica, sans-serif;
-  }
-
   .linkItem span:before {
     left: 30px;
   }
@@ -184,17 +179,7 @@ body {
     max-height: 40px;
   }
 
-  .linkItem span {
-    font-family:Arial, Helvetica, sans-serif;
-  }
-
   .linkItem span:before {
     left: 30px;
-  }
-}
-
-@media screen and (min-width: 481px) and (max-width: 600px) {
-  .linkItem span {
-    font-family:Arial, Helvetica, sans-serif;
   }
 }
