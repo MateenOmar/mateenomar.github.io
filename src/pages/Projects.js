@@ -8,7 +8,7 @@ import {ReactComponent as Back} from '../images/backArrow.svg';
 
 const Projects = () => {
   return (
-    <body className=''>
+    <body id='projects'>
       <Link to="/"><Back className='icon'/></Link>
       <h1 className='header'>Projects</h1>
       
