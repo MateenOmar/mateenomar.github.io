@@ -8,7 +8,7 @@ import {ReactComponent as Back} from '../images/backArrow.svg';
 
 const Projects = () => {
   return (
-    <body id='projects'>
+    <body id=''>
       <Link to="/"><Back className='icon'/></Link>
       <h1 className='header'>Projects</h1>
       
@@ -19,7 +19,7 @@ const Projects = () => {
             <a href='https://github.com/MateenOmar/Unix-Shell' rel="noreferrer"  className='projectLink' target="_blank"><Play className='icon'/></a>
             <a href='https://github.com/MateenOmar/Unix-Shell' rel="noreferrer"  className='projectLink' target="_blank"><Next className='icon'/></a>
           </div>
-          <p className='projectDesc'>short project description --- remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+          <p className='projectDesc'>Object-oriented design implementation using multiple software design patterns (Singleton, Factory, etc.) whilst following the SOLID principle in an agile process</p>
           <div className='languagesContainer'>
             <span className='language' style={{color:"#b07219"}}>Java</span>
           </div>
@@ -31,7 +31,7 @@ const Projects = () => {
             <a href='https://github.com/MateenOmar/CRUD-API' rel="noreferrer"  className='projectLink' target="_blank"><Play className='icon'/></a>
             <a href='https://github.com/MateenOmar/CRUD-API' rel="noreferrer"  className='projectLink' target="_blank"><Next className='icon'/></a>
           </div>
-          <p className='projectDesc'>short project description --- remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+          <p className='projectDesc'>Basic API that implements all CRUD capabilities</p>
           <div className='languagesContainer'>
             <span className='language' style={{color:"#00ADD8"}}>GO</span>
           </div>
@@ -43,7 +43,7 @@ const Projects = () => {
             <a href='https://github.com/MateenOmar' rel="noreferrer"  className='projectLink' target="_blank"><Play className='icon'/></a>
             <a href='https://github.com/MateenOmar' rel="noreferrer"  className='projectLink' target="_blank"><Next className='icon'/></a>
           </div>
-          <p className='projectDesc'>short project description --- remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+          <p className='projectDesc'>short project description</p>
           <div className='languagesContainer'>
             <span className='language' style={{color:"#f1e05a"}}>JavaScript</span>
             <span className='language' style={{color:"#e34c26"}}>HTML</span>
@@ -60,7 +60,7 @@ const Projects = () => {
             <a href='https://github.com/MateenOmar/Course-Website' rel="noreferrer"  className='projectLink' target="_blank"><Play className='icon'/></a>
             <a href='https://github.com/MateenOmar/Course-Website' rel="noreferrer"  className='projectLink' target="_blank"><Next className='icon'/></a>
           </div>
-          <p className='projectDesc'>short project description --- remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+          <p className='projectDesc'>Functional course website with the backend written in Python using Flask with a working database in SQLite</p>
           <div className='languagesContainer'>
             <span className='language' style={{color:"#3572A5"}}>Python</span>
             <span className='language' style={{color:"#e34c26"}}>HTML</span>
@@ -74,7 +74,7 @@ const Projects = () => {
             <a href='https://github.com/MateenOmar/Recommendation-System-Application' rel="noreferrer"  className='projectLink' target="_blank"><Play className='icon'/></a>
             <a href='https://github.com/MateenOmar/Recommendation-System-Application' rel="noreferrer"  className='projectLink' target="_blank"><Next className='icon'/></a>
           </div>
-          <p className='projectDesc'>short project description --- remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+          <p className='projectDesc'>Basic system that computes recommendations based on a predefined database</p>
           <div className='languagesContainer'>
             <span className='language' style={{color:"#3572A5"}}>Python</span>
           </div>
@@ -86,7 +86,7 @@ const Projects = () => {
             <a href='https://github.com/MateenOmar/Course-Management-System' rel="noreferrer"  className='projectLink' target="_blank"><Play className='icon'/></a>
             <a href='https://github.com/MateenOmar/Course-Management-System' rel="noreferrer"  className='projectLink' target="_blank"><Next className='icon'/></a>
           </div>
-          <p className='projectDesc'>short project description --- remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+          <p className='projectDesc'>short project description</p>
           <div className='languagesContainer'>
             <span className='language' style={{color:"#b07219"}}>Java</span>
           </div>
