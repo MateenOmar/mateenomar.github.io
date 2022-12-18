@@ -16,7 +16,7 @@ function App() {
 
         <p id='about'>
           Hey, it's Omar. A 3rd year <span style={{color:"#00ffe5"}}>Computer Science</span> student at <span style={{color:"#00ffe5", textDecoration:"underline #BB86FC"}}>Toronto Metropolitan (Ryerson) University</span>.<br/><br/>
-          I'm currently completing my 3rd year while seeking a Co-op position for <span style={{textDecoration:"underline"}}>Summer 2023</span>.
+          I'm currently completing my 3rd year while seeking a Co-op position for <span style={{textDecoration:"underline"}}>Summer 2023</span> and onwards.
         </p>
 
         <div className='linksContainer'>
